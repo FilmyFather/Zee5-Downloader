@@ -53,4 +53,4 @@ python3 bot.py
 ## Credits, and Thanks to Beloved Developers ;
 
 * [Yuvi](https://telegram.dog/Yuvi_4502) 
-* [Tharaki(https://telegram.dog/Tharak_69)
+* [Tharaki](https://telegram.dog/Tharak_69)
