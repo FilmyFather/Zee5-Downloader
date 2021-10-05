@@ -1,5 +1,5 @@
 ## Zee5 Downloader
-If you find any bugs, report at @TroJanzSupport
+If you find any bugs, report at @RequestingHuB
 
 **My Features**:
 
@@ -12,7 +12,7 @@ If you find any bugs, report at @TroJanzSupport
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/TroJanzHEX/Zee5-Downloader)
+[![Deploy]ton.svg)]
 
 #### Run in your VPS
 
@@ -52,6 +52,5 @@ python3 bot.py
 
 ## Credits, and Thanks to Beloved Developers ;
 
-* [SpEcHlDe](https://telegram.dog/SpEcHlDe) 
-* [Dan Tès](https://telegram.dog/haskell)
-* [Dedshit](https://github.com/dedshit)
+* [Yuvi](https://telegram.dog/Yuvi_4502) 
+* [Tharaki(https://telegram.dog/Tharak_69)
