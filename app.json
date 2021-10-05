@@ -1,6 +1,6 @@
 {
-  "name": "Zee5 DL",
-  "description": "Zee5 Downloader",
+  "name": "FilmyFather Zee5 DL",
+  "description": "FilmyFather Zee5 Downloader",
   "keywords": [
     "telegram",
     "zee5",
@@ -28,7 +28,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "680815375"
+      "value": "1564152071"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
